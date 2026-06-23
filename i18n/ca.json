@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "spaces": "Espais",
+    "about": "Nosaltres",
+    "gallery": "Galeria",
+    "location": "Ubicació",
+    "reserve": "Reservar visita"
+  },
+  "reserve": {
+    "title": "Reservar visita",
+    "subtitle": "Explica'ns què necessites i et confirmem disponibilitat en menys de 24 hores.",
+    "back": "Tornar",
+    "nameLabel": "Nom complet",
+    "namePlaceholder": "El teu nom complet",
+    "emailLabel": "Correu electrònic",
+    "phoneLabel": "Telèfon",
+    "phonePlaceholder": "612 345 678",
+    "dateLabel": "Data preferida",
+    "spaceLabel": "Espai",
+    "spacePlaceholder": "Selecciona un espai",
+    "space1": "Taula Alta Coworking",
+    "space2": "Taula Individual",
+    "space3": "Taula Coworking",
+    "availabilityNote": "Disponibilitat orientativa",
+    "avail": {
+      "mesaAlta": "4 places",
+      "mesaIndividual": "3 places",
+      "mesaCoworking": "4 places"
+    },
+    "modalityLabel": "Modalitat",
+    "modalityPlaceholder": "Selecciona una modalitat",
+    "modality": {
+      "fullDay_alta": "Jornada completa (15€)",
+      "halfDay_alta": "Mitja jornada 4h (8€)",
+      "hourly_alta": "Per hores 10:00–17:00 (4€/h)",
+      "fullDay_ind": "Jornada completa (19€)",
+      "halfDay_ind": "Mitja jornada 4h (10€)",
+      "hourly_ind": "Per hores 10:00–17:00 (5€/h)",
+      "monthly": "Mensual (120€)"
+    },
+    "startTimeLabel": "Hora d'inici",
+    "endTimeLabel": "Hora de fi",
+    "messageLabel": "Missatge",
+    "messagePlaceholder": "Explica'ns alguna cosa sobre el que necessites...",
+    "optional": "(opcional)",
+    "submit": "Enviar sol·licitud",
+    "errorText": "Alguna cosa ha anat malament. Si us plau, torna-ho a intentar.",
+    "successTitle": "Sol·licitud enviada",
+    "successText": "Hem rebut el teu missatge. Et contactarem en menys de 24 hores per confirmar la teva visita.",
+    "successBack": "Tornar a la web"
+  },
+  "hero": {
+    "title": {
+      "line1": "Treballa al cor de",
+      "line2": "Tarragona."
+    },
+    "subtitle": "Smart Coworking al centre de Tarragona. Accedeix al teu ritme, treballa amb focus i tranquil·litat.",
+    "cta1": "Veure espais",
+    "cta2": "Reservar visita"
+  },
+  "strip": {
+    "item1": "Smart Coworking",
+    "item2": "Cèntric",
+    "item3": "Al teu ritme",
+    "item4": "Pet Friendly",
+    "item5": "Taules Flexibles"
+  },
+  "about": {
+    "title1": "Un espai per treballar a la teva manera",
+    "text1": "Bart's Smart Coworking és un espai de treball de 50 m² al centre de Tarragona, pensat per a professionals que busquen un entorn tranquil, ben equipat i amb accés flexible. Només treballem amb reserva prèvia per garantir el teu lloc i la qualitat de l'espai.",
+    "text1b": "L'accés és mitjançant codi personal i el local compta amb càmera de vigilància 24h. Bart és comercial i treballa des d'aquí cada dia, sempre acompanyat dels seus gossos.",
+    "stat1": "places a la barra",
+    "stat2": "taules individuals",
+    "stat3": "taula de reunions",
+    "stat4": "horari",
+    "title2": "Menys soroll, més focus",
+    "text2": "Un espai on cada detall està pensat perquè la feina flueixi. Nevera, sandvitxera, màquina de cafè i aigua de cortesia a la teva disposició. Tot el necessari per a una jornada completa.",
+    "text2b": "Treballem amb confiança. Esperem puntualitat i honestedat per part de qui utilitza l'espai, igual que nosaltres ens comprometem a cuidar cada detall perquè la teva experiència sigui sempre bona.",
+    "text2c": "L'espai és d'ús compartit, es prega mantenir-lo net i endreçat després de cada ús.",
+    "multilingual": "Bart's Smart Coworking also speaks English, French and Dutch, feel free to reach out in your language."
+  },
+  "spaces": {
+    "title": "Tria el teu espai",
+    "badge": "El més popular",
+    "cta": "Reservar",
+    "card1": {
+      "name": "Taula Alta Coworking",
+      "price": "15€ jornada completa",
+      "price2": "8€ mitja jornada",
+      "price3": "4€ l'hora · de 10h a 17h",
+      "desc": "4 seients alts amb vistes al carrer de vianants."
+    },
+    "card2": {
+      "name": "Taula Individual",
+      "price": "19€ jornada completa",
+      "price2": "10€ mitja jornada",
+      "price3": "5€ l'hora · de 10h a 17h",
+      "price4": "120€ al mes",
+      "desc": "3 taules individuals per a una persona."
+    },
+    "card3": {
+      "name": "Taula Coworking",
+      "price": "15€ jornada completa",
+      "price2": "8€ mitja jornada",
+      "price3": "4€ l'hora · de 10h a 17h",
+      "desc": "Taula amb 4 cadires, ideal per treballar de forma individual o en grup."
+    }
+  },
+  "gallery": {
+    "title": "L'espai",
+    "placeholder": "Foto per afegir"
+  },
+  "pet": {
+    "title": "Els gossos són benvinguts",
+    "text": "Els gossos del propietari són a l'espai cada dia. Bart's Smart Coworking va néixer sent pet friendly, no com a política sinó com a part de l'ambient. El teu gos és benvingut, només demanem respecte mutu per l'espai compartit."
+  },
+  "testimonial": {
+    "title": "Informació sobre l'espai",
+    "item1": "Cal reserva prèvia per a tots els espais",
+    "item2": "Accés amb codi personal, Horari de 8:00 a 22:00",
+    "item3": "Càmera de vigilància, Seguretat contínua",
+    "item4": "Aigua de cortesia",
+    "item5": "El teu primer cafè, convidat. Màquina de cafè disponible durant la teva estada.",
+    "item6": "Nevera i sandvitxera disponibles",
+    "item7": "WiFi d'alta qualitat",
+    "item8": "Els gossos de Bart sempre presents, Pet friendly de debò",
+    "item9": "Espai d'ús compartit, Es prega mantenir-lo net",
+    "item10": "Cabina insonoritzada disponible per a trucades i videotrucades privades"
+  },
+  "location": {
+    "title": "On som",
+    "hours": "Dl-Dv 8:00-22:00 h",
+    "transport": "5 min caminant des de l'estació de tren",
+    "center": "Al centre de Tarragona",
+    "pet": "Pet friendly, gossos benvinguts"
+  },
+  "contact": {
+    "phone": "622 059 024",
+    "email": "coworkingtarragona@gmail.com"
+  },
+  "footer": {
+    "tagline": "Smart Coworking al centre de Tarragona. Un espai per treballar a la teva manera.",
+    "spacesTitle": "Espais",
+    "contactTitle": "Contacte",
+    "copy": "© 2025 Bart's Smart Coworking · Méndez Núñez 16, 43004 Tarragona"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\coworking_bart\" -Recurse -File)",
+      "Bash(Select-Object FullName)",
+      "PowerShell(Get-ChildItem -Path \"C:\\\\coworking_bart\" -Recurse -File | ForEach-Object { $_.FullName })",
+      "Bash(start *)"
+    ]
+  }
+}
