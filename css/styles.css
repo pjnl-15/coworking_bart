@@ -291,6 +291,16 @@ svg { display: block; }
   margin-bottom: 24px;
   line-height: 1.75;
 }
+.hero__notice {
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  color: var(--terracota);
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  border-left: 2px solid var(--terracota);
+  padding-left: 12px;
+}
 .hero__actions {
   display: flex;
   gap: 14px;
